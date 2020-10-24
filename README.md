@@ -4,7 +4,7 @@
 <img src ="image.png" width="1080" height="1920"
 here i have shown that the given cardNo. does not follow luhn algorithm->reason of showing error
 
-<img src="correct.png" width="200" height="300"
+<img src="image.png" width="200" height="300"
 here i have shown that the given details are correct therefore, they are accepted.
 
 **what i got to learn from this project**
