@@ -1,7 +1,7 @@
 # Android-Credit-Card-Input
 
 **MainActivity**
-<img src ="image.png" width="1080" height="1920"
+<img src ="image.png" width="200" height="400"
 here i have shown that the given cardNo. does not follow luhn algorithm->reason of showing error
 
 <img src="correct.png" width="200" height="300"
